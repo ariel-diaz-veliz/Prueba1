@@ -12,7 +12,7 @@ h1 {
     font-family: fantasy;
 }
 .fotoportada {
-    background-image: url(/assets/img/heder.jpg);
+    background-image: url("../img/heder.jpg");
     height: 30em;
     width: auto;
     border:5px solid black;
